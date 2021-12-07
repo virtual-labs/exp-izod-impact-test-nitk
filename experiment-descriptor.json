@@ -20,7 +20,7 @@
     },
     {
       "target": "pretest.html",
-      "source": "pretest.md",
+      "source": "pretest.json",
       "label": "Self Evaluation",
       "unit-type": "task",
       "content-type": "text"
@@ -41,7 +41,7 @@
     },
     {
       "target": "posttest.html",
-      "source": "posttest.md",
+      "source": "posttest.json",
       "label": "Quiz",
       "unit-type": "task",
       "content-type": "text"
