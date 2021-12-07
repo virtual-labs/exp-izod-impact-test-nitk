@@ -30,7 +30,7 @@
       "source": "pretest.json",
       "label": "Self Evaluation",
       "unit-type": "task",
-      "content-type": "text"
+      "content-type": "assesment"
     },
     {
       "target": "simulation.html",
@@ -51,7 +51,7 @@
       "source": "posttest.json",
       "label": "Quiz",
       "unit-type": "task",
-      "content-type": "text"
+      "content-type": "assesment"
     },
     {
       "target": "videos.html",
