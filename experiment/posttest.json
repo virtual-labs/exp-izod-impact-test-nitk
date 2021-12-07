@@ -2,37 +2,105 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What kind of notch is used in the test piece in an Izod impact test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "V-notch",
+        "b": "U-notch",
+        "c": "T-notch",
+        "d": "No cut"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The test piece is placed in such a way that the notch is facing",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Up",
+        "b": "Away from striking edge",
+        "c": "Towards the striking edge",
+        "d": "Down"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Notches are used _____.",
+      "answers": {
+        "a": "To minimize plastic deformation",
+        "b": "As a stress concentration region",
+        "c": "Easy breakage",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "IS Code for Izod impact test is",
+      "answers": {
+        "a": "3766-1977",
+        "b": "1598-1977",
+        "c": "1499-1977",
+        "d": "5242-1979"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Izod test specimen, the angle of V-notch section is",
+      "answers": {
+        "a": "30 degree",
+        "b": "45 degree",
+        "c": "60 degree",
+        "d": "90 degree"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which property of metals is essential for application in gears and crankshaft which are subjected to impact loading?",
+      "answers": {
+        "a": "Toughness",
+        "b": "Hardness",
+        "c": "Ductility",
+        "d": "Malleability"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
