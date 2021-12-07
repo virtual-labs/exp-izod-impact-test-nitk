@@ -4,6 +4,13 @@
   "basedir": ".",
   "units": [
     {
+      "target": "aim.html",
+      "source": "aim.md",
+      "label": "Aim",
+      "unit-type": "task",
+      "content-type": "text"
+    },
+    {
       "target": "theory.html",
       "source": "theory.md",
       "label": "Theory",
