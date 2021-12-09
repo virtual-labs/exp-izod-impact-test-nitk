@@ -16,7 +16,7 @@
         "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "The test piece is placed in such a way that the notch is facing",
@@ -33,7 +33,7 @@
         "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "Notches are used _____.",
@@ -50,7 +50,7 @@
         "d": ""
       },
       "correctAnswer": "d",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "IS Code for Izod impact test is",
@@ -67,7 +67,7 @@
         "d": ""
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "In Izod test specimen, the angle of V-notch section is",
@@ -84,7 +84,7 @@
         "d": ""
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "Which property of metals is essential for application in gears and crankshaft which are subjected to impact loading?",
@@ -101,7 +101,7 @@
         "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     }
   ]
 }
