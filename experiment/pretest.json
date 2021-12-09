@@ -16,7 +16,7 @@
         "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "How is the test piece supported?",
@@ -27,13 +27,13 @@
         "d": "Any position"
       },
       "explanations": {
-        "a": " ",
-        "b": " ",
-        "c": " ",
-        "d": " "
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "Which property of the metal is used to check in this test?",
@@ -44,13 +44,13 @@
         "d": "Malleability"
       },
       "explanations": {
-        "a": " ",
-        "b": " ",
-        "c": " ",
-        "d": " "
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "The initial energy of the hammer is ",
@@ -61,13 +61,13 @@
         "d": "138 Joules"
       },
       "explanations": {
-        "a": " ",
-        "b": " ",
-        "c": " ",
-        "d": " "
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "According to IS codes dimensions, the length of the test piece is _____.",
@@ -78,13 +78,13 @@
         "d": "55mm"
       },
       "explanations": {
-        "a": " ",
-        "b": " ",
-        "c": " ",
-        "d": " "
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "What is the depth of the notch of izod test specimen?",
@@ -95,13 +95,13 @@
         "d": "8 mm"
       },
       "explanations": {
-        "a": " ",
-        "b": " ",
-        "c": " ",
-        "d": " "
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
       "question": "The toughness value of material A and material B are 60J and 5J respectively. Which of the following statements is more suitable?",
@@ -112,13 +112,13 @@
         "d": "Material B is more ductile than material A"
       },
       "explanations": {
-        "a": " ",
-        "b": " ",
-        "c": " ",
-        "d": " "
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": ""
     }
   ]
 }
