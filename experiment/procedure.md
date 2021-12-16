@@ -1,7 +1,7 @@
 1. Click on the proc Test file, a window will open as shown below.  
    [<img src="./images/proc1.png" width="800" height="600" />](./images/proc1.png)
 
-2. Click on the NEXT button to move to the next step.
+2. Click on the NEXT button to move to the next step.  
    [<img src="./images/proc2.png" width="800" height="600" />](./images/proc2.png)
 
 3. Select the specimen to be placed in the machines anvil.  
