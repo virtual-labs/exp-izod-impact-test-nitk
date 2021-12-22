@@ -1,3 +1,9 @@
+**OBJECTIVE**:
+
+To find the impact resistance of mild steel and cast iron.
+
+**STEPS**:
+
 1. Click on the proc Test file, a window will open as shown below.  
    [<img src="./images/proc1.png" width="800" height="600" />](./images/proc1.png)
 
