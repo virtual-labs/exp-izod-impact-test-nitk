@@ -2,38 +2,123 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In the Izod impact test, the angle at which the pendulum is placed from the ground is ______ degrees.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "90",
+        "b": "100",
+        "c": "110",
+        "d": "130"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "How is the test piece supported?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "At its two ends",
+        "b": "Vertical cantilever",
+        "c": "At an angle og 45&deg;",
+        "d": "Any position"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Which property of the metal is used to check in this test?",
+      "answers": {
+        "a": "Ductility",
+        "b": "Toughness",
+        "c": "Brittleness",
+        "d": "Malleability"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The initial energy of the hammer is ",
+      "answers": {
+        "a": "186 Joules",
+        "b": "192 Joules",
+        "c": "164 Joules",
+        "d": "138 Joules"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "According to IS codes dimensions, the length of the test piece is _____.",
+      "answers": {
+        "a": "85mm",
+        "b": "75mm",
+        "c": "65mm",
+        "d": "55mm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the depth of the notch of izod test specimen?",
+      "answers": {
+        "a": "2 mm",
+        "b": "4 mmm",
+        "c": "6 mm",
+        "d": "8 mm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The toughness value of material A and material B are 60J and 5J respectively. Which of the following statements is more suitable?",
+      "answers": {
+        "a": "Material A is harder than material B",
+        "b": "Material B is more brittle than material A",
+        "c": "Material A is more tougher than material B",
+        "d": "Material B is more ductile than material A"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }
